@@ -24,10 +24,7 @@
 
 
 ## Menú Principal :
-![Screenshot_20210810-195804_Termux](https://user-images.githubusercontent.com/81049859/128950557-47651390-b875-4b73-b21d-efbbb977ef3f.png)
-
-## IP asignada por PROXY :
-![Screenshot_20210810-195858_Termux](https://user-images.githubusercontent.com/81049859/128950592-e56dd846-8137-497d-822a-a02979d8ae63.png)
+![Screenshot_20220522-235527_Termux](https://user-images.githubusercontent.com/81049859/169740689-fdeab5b7-8700-44af-8a80-c2ae411a93dd.png)
 
 ## VpnTorCj7 :
 * Anonimiza tus procesos en termux.
