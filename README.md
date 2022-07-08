@@ -23,10 +23,10 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220522-235527_Termux](https://user-images.githubusercontent.com/81049859/169740689-fdeab5b7-8700-44af-8a80-c2ae411a93dd.png)
+![Screenshot_20220708-120909_Termux](https://user-images.githubusercontent.com/81049859/178031988-50ae7e37-ec36-4bcf-b84e-8b45faa3a0b9.png)
 
 ## VpnTorCj7 :
-* Anonimiza tus procesos en termux.
+* Anonimiza tus procesos en termux gracias a la red Tor.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
