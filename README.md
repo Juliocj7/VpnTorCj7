@@ -29,7 +29,7 @@
 ![Screenshot_20220709-212003_Termux](https://user-images.githubusercontent.com/81049859/178127777-e2b9d9ac-68ea-448a-85b5-129df9877f97.png)
 
 ## VpnTorCj7 :
-* Anonimiza todos tus **procesos** en termux.
+* Anonimiza todos tus **procesos** en termux y mantente fuera del radar de cualquiera.
 * Comparte archivos y directorios completos **fuera de tu red local** por medio de la Deep Web.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
