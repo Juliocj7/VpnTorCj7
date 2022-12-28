@@ -23,10 +23,10 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220709-211327_Termux](https://user-images.githubusercontent.com/81049859/178127765-0d2e719e-3b41-4289-872f-1a12170b2225.png)
+![Screenshot_20221228-155253_Termux](https://user-images.githubusercontent.com/81049859/209865894-3be81f60-f240-4084-853f-e8114cfabb1e.png)
 
 ## Server Deep Web :
-![Screenshot_20220709-212003_Termux](https://user-images.githubusercontent.com/81049859/178127777-e2b9d9ac-68ea-448a-85b5-129df9877f97.png)
+![Screenshot_20221228-155835_Termux](https://user-images.githubusercontent.com/81049859/209865910-221768bf-8794-4109-bb26-290e432f01f6.png)
 
 ## VpnTorCj7 :
 * Anonimiza todos tus **procesos** en termux y mantente fuera del radar de cualquiera.
