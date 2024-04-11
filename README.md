@@ -35,20 +35,16 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Sintaxis : 
-* Luego de la instalación podemos llamar a la herramienta desde cualquier directorio en cualquier momento con el comando :
-- > ` torcj7 `
+* Luego de la instalación podemos llamar a la herramienta desde cualquier directorio en cualquier momento con el comando: ` torcj7 `
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * `git clone https://github.com/Juliocj7/VpnTorCj7`
 
 * `cd VpnTorCj7`
