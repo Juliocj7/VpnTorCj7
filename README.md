@@ -48,30 +48,31 @@ ______________________________________________________
 ## Server Deep Web :
 ![1000328438](https://github.com/Juliocj7/VpnTorCj7/assets/81049859/20fffc5d-64e7-4843-abbf-89814c8ecd3e)
 
+> [!TIP]
+> > Luego de la instalación podremos llamar a la herramienta desde cualquier directorio con el comando: ` torcj7 `
+
 ## VpnTorCj7 :
 * Anonimiza todos tus **procesos** en termux y mantente fuera del radar de cualquiera.
 * Comparte archivos y directorios completos **fuera de tu red local** por medio de la Deep Web.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
-## Uso : 
-* Luego de la instalación podemos llamar a la herramienta desde cualquier directorio en cualquier momento con el comando: ` torcj7 `
-
 ## Instalación :
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/VpnTorCj7`
-
-* `cd VpnTorCj7`
-
-* `chmod +x *`
-
-* `./VpnTorCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/VpnTorCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd VpnTorCj7 && chmod +x * && ./VpnTorCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
