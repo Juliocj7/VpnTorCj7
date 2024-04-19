@@ -45,8 +45,9 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328437](https://github.com/Juliocj7/VpnTorCj7/assets/81049859/afc02690-fc4c-472f-98c9-783b46012e56)
 
-## Server Deep Web :
-![1000328438](https://github.com/Juliocj7/VpnTorCj7/assets/81049859/20fffc5d-64e7-4843-abbf-89814c8ecd3e)
+|Server Deep Web|
+|:-------------:|
+|![1000332339](https://github.com/Juliocj7/VpnTorCj7/assets/81049859/3a03df5d-a18e-469b-90ed-d48d5b94b46c)|
 
 > [!TIP]
 > > Luego de la instalación podremos llamar a la herramienta desde cualquier directorio con el comando: ` torcj7 `
