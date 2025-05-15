@@ -44,7 +44,7 @@
 ## Menú Principal :
 [![1000328437](https://github.com/user-attachments/assets/537e4470-f5ed-4987-be20-819069cb304b)](#---)
 
-|𝚂𝚎𝚛𝚟𝚎𝚛 𝙳𝚎𝚎𝚙 𝚆𝚎𝚋|
+|𝚍𝚎𝚎𝚙 𝚠𝚎𝚋 𝚜𝚎𝚛𝚟𝚎𝚛|
 |:-------------:|
 [![1000332339](https://github.com/user-attachments/assets/81caf1ec-f7e5-4426-a01c-d4feaa566404)](#---)
 
